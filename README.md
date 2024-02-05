@@ -4,9 +4,9 @@
     Cycle 12 Labs
 </h1>
 
-<h2 align="center">Due before 8:30 AM on 2/24 </h2>
+<h2 align="center">Due before 8:30 AM on 2/15 </h2>
 
-### Best Practices & Modules
+### Content Revisted
 ---
 Read through the lab assignments in each powerpoint. Follow all instructions.
 
